@@ -9,3 +9,6 @@ process to production support.
 
     Software is developed, continously monitored, while maintaining
 streamlined communication.
+
+# DevOps is the union of people, process and products to enable continous delivery of value to end users.
+# The goal is to bring teams together.
