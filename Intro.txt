@@ -1,5 +1,14 @@
-DevOps is a culture of collaboration between the Operation team
+    DevOps is a culture of collaboration between the Operation team
 and the Development team within an organisation to increase speed of
 delivering applications, ensure continous integration and reduce the
 complexity of maintaining an application.
-hello
+
+    The Operations and Development engineers participating together
+in the entire service lifecycle, from design through the development 
+process to production support.
+
+    Software is developed, continously monitored, while maintaining
+streamlined communication.
+
+# DevOps is the union of people, process and products to enable continous delivery of value to end users.
+# The goal is to bring teams together.
